@@ -1,2 +1,2 @@
 # travis-ci-example
-Example to build and deploy applications using Travis CI
+Duplicate for Master branch. Example to build and deploy applications using Travis CI
